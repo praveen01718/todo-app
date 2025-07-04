@@ -135,7 +135,7 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 ## 📹 Demo Video
 
-Watch the full demo of this app on Loom: [Demo Loom Video](https://loom.com/share/your-demo-link)
+Watch the full demo of this app on Loom: [Demo Loom Video](https://www.loom.com/share/ecbf48921cf3436fa663106ec1da35fd?sid=6af06f0b-5343-42ad-b82e-7d59cb9569fb)
 
 ---
 
