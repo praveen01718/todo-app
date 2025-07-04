@@ -1,0 +1,53 @@
+/* src/Login.css */
+
+.auth-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+.auth-card {
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 420px;
+  color: #333;
+}
+
+.auth-title {
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #333;
+}
+
+.auth-input {
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  height: 45px;
+  font-size: 1rem;
+}
+
+.auth-button {
+  border-radius: 10px;
+  font-weight: 500;
+  height: 45px;
+}
+
+.google-btn {
+  background-color: #db4437;
+  color: white;
+}
+
+.google-btn:hover {
+  background-color: #c1351d;
+}
+
+.auth-footer {
+  text-align: center;
+  margin-top: 1.5rem;
+}

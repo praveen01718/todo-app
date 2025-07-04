@@ -1,0 +1,26 @@
+/* src/Home.css */
+
+.card-title {
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 0.9rem;
+}
+
+button.btn-sm {
+  font-size: 0.75rem;
+}
+
+input[type="text"],
+input[type="datetime-local"] {
+  border-radius: 0.25rem;
+}
+
+.card {
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}

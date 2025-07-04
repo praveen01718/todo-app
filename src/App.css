@@ -1,0 +1,22 @@
+/* App.css */
+body, html, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.fullscreen-container {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f8f9fa; /* optional */
+  display: flex;
+  flex-direction: column;
+}
+
+.page-content {
+  width: 100%;
+  padding-bottom: 60px;
+}
